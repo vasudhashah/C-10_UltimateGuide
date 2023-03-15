@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\01. Creating First C#App",
+    "\\01. Creating First C#App\\MyFirstApp",
+    "\\01. Creating First C#App\\MyFirstApp\\MyFirstApp"
   ],
+  "SelectedNode": "\\01. Creating First C#App\\MyFirstApp\\MyFirstApp\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
