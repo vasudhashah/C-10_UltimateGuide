@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerAccountMenu", "CustomerAccountMenu\CustomerAccountMenu.csproj", "{6BD5039A-F658-41C7-B027-FDA080551BDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BD5039A-F658-41C7-B027-FDA080551BDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BD5039A-F658-41C7-B027-FDA080551BDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BD5039A-F658-41C7-B027-FDA080551BDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BD5039A-F658-41C7-B027-FDA080551BDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFF9C4C3-7909-487F-800D-717D0334F2B8}
+	EndGlobalSection
+EndGlobal
