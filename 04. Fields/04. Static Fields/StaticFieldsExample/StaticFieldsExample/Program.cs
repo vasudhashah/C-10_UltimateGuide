@@ -49,6 +49,7 @@
         int totalQuantity = product1.quantityInStock + product2.quantityInStock + product3.quantityInStock;
         System.Console.WriteLine("Total Quantity: " + totalQuantity);
         System.Console.WriteLine("Total no. of products: " + Product.TotalNoProducts);  //Output: 3
+        System.Console.WriteLine("Category of products: " + Product.CategoryName);  //Output: Electronics
 
         //TO DO: Findout the highest cost of all three products.
         System.Console.ReadKey();
