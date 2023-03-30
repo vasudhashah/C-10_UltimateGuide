@@ -33,18 +33,22 @@
         System.Console.WriteLine("Product Name: " + product1.productName);
         System.Console.WriteLine("Cost: " + product1.cost);
         System.Console.WriteLine("Quantity in Stock: " + product1.quantityInStock);
+        System.Console.WriteLine("Date of Purchase: " + product1.dateOfPurchase);
 
         System.Console.WriteLine("\nProduct 2:");
         System.Console.WriteLine("Product ID: " + product2.productID);
         System.Console.WriteLine("Product Name: " + product2.productName);
         System.Console.WriteLine("Cost: " + product2.cost);
         System.Console.WriteLine("Quantity in Stock: " + product2.quantityInStock);
+        System.Console.WriteLine("Date of Purchase: " + product2.dateOfPurchase);
+
 
         System.Console.WriteLine("\nProduct 3:");
         System.Console.WriteLine("Product ID: " + product3.productID);
         System.Console.WriteLine("Product Name: " + product3.productName);
         System.Console.WriteLine("Cost: " + product3.cost);
         System.Console.WriteLine("Quantity in Stock: " + product3.quantityInStock);
+        System.Console.WriteLine("Date of Purchase: " + product3.dateOfPurchase);
 
         int totalQuantity = product1.quantityInStock + product2.quantityInStock + product3.quantityInStock;
         System.Console.WriteLine("Total Quantity: " + totalQuantity);
