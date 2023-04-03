@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AFDEC765-D5BC-4EEB-8BD1-A8E45F6F0107}</ProjectGuid>
+    <ProjectGuid>{6E1AEA37-0A2B-43E2-A991-5D437898D746}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CreatingPropertiesExample</RootNamespace>
-    <AssemblyName>CreatingPropertiesExample</AssemblyName>
+    <RootNamespace>IndexerExample</RootNamespace>
+    <AssemblyName>IndexerExample</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -51,7 +51,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ClassLibrary1\ClassLibrary1.csproj">
-      <Project>{40354ef7-0ec4-4987-87f7-ad3e687ca983}</Project>
+      <Project>{b1a68016-9f70-486e-9f6c-a123106f8465}</Project>
       <Name>ClassLibrary1</Name>
     </ProjectReference>
   </ItemGroup>
