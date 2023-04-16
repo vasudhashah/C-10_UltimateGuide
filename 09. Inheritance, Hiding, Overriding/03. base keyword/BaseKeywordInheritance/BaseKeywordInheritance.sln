@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseKeywordInheritance", "BaseKeywordInheritance\BaseKeywordInheritance.csproj", "{8B240327-D520-40A5-BF32-ACF9ACE26C6F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{A31AA043-9368-4238-B0DD-5EB7D27D47AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8B240327-D520-40A5-BF32-ACF9ACE26C6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B240327-D520-40A5-BF32-ACF9ACE26C6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B240327-D520-40A5-BF32-ACF9ACE26C6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A31AA043-9368-4238-B0DD-5EB7D27D47AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A31AA043-9368-4238-B0DD-5EB7D27D47AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A31AA043-9368-4238-B0DD-5EB7D27D47AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A31AA043-9368-4238-B0DD-5EB7D27D47AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
