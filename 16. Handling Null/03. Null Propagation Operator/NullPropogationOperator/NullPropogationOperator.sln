@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullPropogationOperator", "NullPropogationOperator\NullPropogationOperator.csproj", "{1AF9B11C-A67E-42DA-9627-ABB950D570FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AF9B11C-A67E-42DA-9627-ABB950D570FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AF9B11C-A67E-42DA-9627-ABB950D570FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AF9B11C-A67E-42DA-9627-ABB950D570FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AF9B11C-A67E-42DA-9627-ABB950D570FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47558EE2-AF82-4045-8404-154680374C75}
+	EndGlobalSection
+EndGlobal
